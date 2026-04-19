@@ -37,40 +37,6 @@ I build production-grade systems — from ERP platforms serving 10,000+ active u
 
 ---
 
-## 💼 Experience
-
-**FastDo** — Software Developer *(Mar 2025 – Present)*  
-ERP platform for SMEs · ~1,000 customers · ~10,000 active users
-- Built RESTful APIs with ASP.NET Core for HRM & Work Management modules
-- Optimized MongoDB queries for 100k+ records; cut API response time from ~800ms → ~200ms
-- Implemented JWT auth, role-based access, and layered architecture (Controller–Service–Repository)
-- Integrated backend with cross-platform mobile apps (.NET MAUI → React Native)
-
-**MakeAI** — Mobile Developer *(Nov 2024 – Mar 2025)*  
-LMS product built on Canvas LMS (open-source)
-- Built React Native app for student & teacher roles with full API integration
-- Handled auth, role-based access, and session management on mobile client
-
----
-
-## 🚀 Featured Project
-
-### 🎓 Smart Student Attendance Management System
-> Graduation Project · Da Nang University of Technology · **Grade: 8.8 / 10**
-
-**Stack:** ReactJS · React Native · ASP.NET Core · MongoDB · Firebase · Vertex AI (GCP)
-
-A full-stack attendance platform built for university-scale use, with a Web Admin for lecturers/admins and a Mobile App for students.
-
-**Highlights:**
-- 🔐 **Multi-factor verification** — GPS geofencing + Wi-Fi matching + device ID + photo capture to prevent proxy attendance
-- 🤖 **AI-powered class creation** via Vertex AI — parses Excel uploads of any format, auto-normalizes data, reduces setup time by **85% (30 min → 5 min)** with **95% accuracy**
-- 📝 Leave request workflow with lecturer approval and real-time status tracking
-- 📊 Real-time dashboard with absentee alerts, trend analysis, and Excel/PDF export
-- 👥 3-tier RBAC: Admin · Lecturer · Student
-
----
-
 ## 📬 Connect
 
 [![Email](https://img.shields.io/badge/huy041203@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huy041203@gmail.com)
@@ -79,5 +45,3 @@ A full-stack attendance platform built for university-scale use, with a Web Admi
 📍 Da Nang, Vietnam · Available for **outsource & remote** opportunities
 
 ---
-
-*TOEIC 805/990 · Bachelor of IT, Da Nang University of Technology (2021–2026)*
