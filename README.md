@@ -71,13 +71,6 @@ A full-stack attendance platform built for university-scale use, with a Web Admi
 
 ---
 
-## 📊 GitHub Stats
-
-![Huy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huy041203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huy041203&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📬 Connect
 
 [![Email](https://img.shields.io/badge/huy041203@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huy041203@gmail.com)
